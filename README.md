@@ -1,6 +1,8 @@
 ### Luis del Llano 
 Software Engineer undergraduate at USP-Polytechnic School.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisdellano&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 luisdellano@usp.br
 <!--
 **luisdellano/luisdellano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
