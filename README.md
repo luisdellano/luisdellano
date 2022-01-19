@@ -1,5 +1,7 @@
-### Hi there 👋
+### Luis del Llano 
+Software Engineer undergraduate at USP-Polytechnic School.
 
+luisdellano@usp.br
 <!--
 **luisdellano/luisdellano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
