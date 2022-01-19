@@ -1,9 +1,10 @@
 ### Luis del Llano 
 Software Engineer undergraduate at USP-Polytechnic School.
+Currently learning Next.js and Node.js!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisdellano&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisdellano&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisdellano)](https://github.com/anuraghazra/github-readme-stats)
 
 luisdellano@usp.br
 <!--
